@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{9011D6C8-9A17-4BE4-A6F9-11B95615EE0F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListBug.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.51222B62-759D-4B20-A591-58C059B12959" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListBug.iOS/Info.plist">
+    <Files>
+      <File FileName="ListBug/App.xaml" />
+      <File FileName="ListBug/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="ListBug/MainPage.xaml" />
+      <File FileName="ListBug.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListBug" expanded="True">
+            <Node name="ListBug" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="ListBug.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

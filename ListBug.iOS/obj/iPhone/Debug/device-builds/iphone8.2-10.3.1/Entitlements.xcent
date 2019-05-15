@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>get-task-allow</key>
+	<true/>
+	<key>application-identifier</key>
+	<string>P8N9P47E6Z.com.poleemploi.poc.ListBug</string>
+	<key>com.apple.developer.ubiquity-container-identifiers</key>
+	<array>
+		<string>P8N9P47E6Z.*</string>
+	</array>
+	<key>com.apple.developer.team-identifier</key>
+	<string>P8N9P47E6Z</string>
+</dict>
+</plist>
